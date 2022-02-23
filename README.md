@@ -19,14 +19,14 @@ Then I try to register a weather station With API Key EnterYourApiKeyHere
 Use the package manager [npm](https://www.npmjs.com/) to install Dependencies.
 
 ```bash
-npm install
+$ npm install
 ```
 
 ## To run the project
 
 type 
 ```bash
-npm run test
+$ npm run test
 ```
 this will run the project and create a JSON File in the report folder
 
@@ -34,7 +34,7 @@ this will run the project and create a JSON File in the report folder
 
 type 
 ```bash
-node index.js
+$ node index.js
 ```
 
 this will generate an HTML report and open the report in a browser

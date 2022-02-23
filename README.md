@@ -1,6 +1,6 @@
 # API Testing using Javascript
 
-In this, I used the Supertest NPM Package, Cucumber BDD Framework, Chai JS Assertions & cucumber-html-reporter as a Reporting Tool
+In this, I used the Supertest NPM Package, Cucumber BDD Framework & cucumber-html-reporter as a Reporting Tool
 
 
 ## NOTE

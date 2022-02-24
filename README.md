@@ -4,7 +4,7 @@ In this, I used the Supertest NPM Package, Cucumber BDD Framework & cucumber-htm
 
 
 ## NOTE
-* Before running the project Please add your API Key in features/info.js
+* Before running the project Please add your API Key in features/info.feature
 
 ```bash
 Scenario: Successfully register two stations
